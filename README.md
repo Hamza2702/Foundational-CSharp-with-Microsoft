@@ -1,5 +1,3 @@
 # C# Programs
 
-- Number Game
-- Petting Zoo
-- Method Final
+Some of the many small projects I've created during the Microsoft Foundation C# certificate course.
